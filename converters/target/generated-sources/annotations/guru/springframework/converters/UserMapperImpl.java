@@ -6,7 +6,7 @@ import guru.springframework.entities.User;
 /*
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-04-23T20:47:10-0500",
+    date = "2022-04-23T21:17:17-0500",
     comments = "version: 1.2.0.Final, compiler: javac, environment: Java 17.0.1 (Oracle Corporation)"
 )
 */
