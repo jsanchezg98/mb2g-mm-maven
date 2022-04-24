@@ -74,6 +74,7 @@ target/*
 */target/
 target/
 */target
+/target/*
 
 ######################
 # Gradle
